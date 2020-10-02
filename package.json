@@ -1,0 +1,21 @@
+{
+  "name": "onechain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "haruki",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.9.7",
+    "web3": "^1.2.11"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
+    "eslint": "^7.5.0"
+  }
+}
